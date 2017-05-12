@@ -25,12 +25,12 @@
 
 #import "KSCrashInstallationPomLog.h"
 
-#import <KSCrash/KSCrashInstallation+Private.h>
+#import "KSCrashInstallation+Private.h"
 #import "KSCrashReportSinkPomLog.h"
-#import <KSCrash/KSCrashReportFilterAppleFmt.h>
-#import <KSCrash/KSCrashReportFilterBasic.h>
-#import <KSCrash/KSCrashReportFilterJSON.h>
-#import <KSCrash/KSCrashReportFilterStringify.h>
+#import "KSCrashReportFilterAppleFmt.h"
+#import "KSCrashReportFilterBasic.h"
+#import "KSCrashReportFilterJSON.h"
+#import "KSCrashReportFilterStringify.h"
 
 @implementation KSCrashInstallationPomLog
 
