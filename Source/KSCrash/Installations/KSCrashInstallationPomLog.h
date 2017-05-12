@@ -23,8 +23,7 @@
 // THE SOFTWARE.
 //
 
-//#import "KSCrashInstallation.h"
-#import <KSCrash/KSCrashInstallation.h>
+#import "KSCrashInstallation.h"
 
 /** sauvegrde les logs dnas une base de données de log techniquess
  * This class is intended for testing purposes.
