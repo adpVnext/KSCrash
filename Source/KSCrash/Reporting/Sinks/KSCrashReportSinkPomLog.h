@@ -25,8 +25,7 @@
 //
 
 
-//#import "KSCrashReportFilter.h"
-#import <KSCrash/KSCrashReportFilter.h>
+#import "KSCrashReportFilter.h"
 
 /**
  * Prints reports directly to the console.
