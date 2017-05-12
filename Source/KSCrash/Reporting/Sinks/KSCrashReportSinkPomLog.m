@@ -51,7 +51,7 @@
     NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *documentsDirectory = [paths objectAtIndex:0]; // Get documents directory
     
-    int i = 0;
+    // int i = 0;
     
     for(NSString* report in reports)
     {
