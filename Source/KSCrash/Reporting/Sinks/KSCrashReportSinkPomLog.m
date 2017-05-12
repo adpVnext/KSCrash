@@ -26,8 +26,8 @@
 
 
 #import "KSCrashReportSinkPomLog.h"
-#import <KSCrash/KSCrashReportFilterAppleFmt.h>
-#import <KSCrash/KSCrashReportFilterBasic.h>
+#import "KSCrashReportFilterAppleFmt.h"
+#import "KSCrashReportFilterBasic.h"
 
 
 @implementation KSCrashReportSinkPomLog
